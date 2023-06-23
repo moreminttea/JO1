@@ -1,0 +1,102 @@
+.layout {
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto Condensed', sans-serif;
+
+    &_img {
+        width: 500px;
+        margin: 20px;
+        z-index: 1;
+    }
+
+    &_info {
+        width: 25vw;
+        min-width: 400px;
+        margin: 10px;
+        font-size: 24px;
+
+        &_header {
+            text-align: left;
+            border-bottom: 1px solid black;
+
+            &_altname {
+                margin-top: -24px;
+                color: rgba(0, 0, 0, 0.5);
+                font-style: italic;
+            }
+
+            &_bottom {
+                width: 100%;
+                display: inline-flex;
+                justify-content: space-between;
+                margin: -16px 0 16px 0;
+            }
+        }
+
+        &_cd {
+            width: 450px;
+            height: 450px;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            margin: 0 0 50px -190px;
+            border-radius: 450px;
+            background-image:
+                conic-gradient(white,
+                    #ffb5c0,
+                    #cfdbff,
+                    white,
+                    #d7f1fa,
+                    #ffd9b8,
+                    white);
+            box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+            -webkit-transition: all 0.5s ease-in;
+            -webkit-animation-name: rotate;
+            -webkit-animation-duration: 20.0s;
+            -webkit-animation-iteration-count: infinite;
+            -webkit-animation-timing-function: linear;
+            transition: all 0.5s ease-in;
+            animation-name: rotate;
+            animation-duration: 20.0s;
+            animation-iteration-count: infinite;
+            animation-timing-function: linear;
+
+            &_inner {
+                width: 170px;
+                height: 170px;
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                border-radius: 250px;
+                background-color: white;
+                box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
+
+                &_img {
+                    width: 100px;
+                    opacity: 0.2;
+                    animation: none;
+                }
+            }
+        }
+
+        &_quote {
+            color: rgba(0, 0, 0, 0.5);
+            font-size: 18px;
+            font-style: italic;
+            text-align: left;
+        }
+    }
+}
+
+@keyframes rotate {
+    from {
+        transform: rotate(0deg);
+        -webkit-transform: rotate(0deg);
+    }
+
+    to {
+        transform: rotate(360deg);
+        -webkit-transform: rotate(360deg);
+    }
+}
