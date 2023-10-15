@@ -1,9 +1,8 @@
 {
   "files": {
-    "main.css": "/JO1/static/css/main.37984068.css",
-    "main.js": "/JO1/static/js/main.9eb15802.js",
+    "main.css": "/JO1/static/css/main.2f9581b3.css",
+    "main.js": "/JO1/static/js/main.bfb8c15c.js",
     "static/js/787.8c944577.chunk.js": "/JO1/static/js/787.8c944577.chunk.js",
-    "static/media/blooming_again_temp.png": "/JO1/static/media/blooming_again_temp.672efd5a413a42f5db6c.png",
     "static/media/toberukara.png": "/JO1/static/media/toberukara.cddc0fe5e5cd25170797.png",
     "static/media/about3.svg": "/JO1/static/media/about3.ec497fd5de93605621089301f7fa7a21.svg",
     "static/media/about2.svg": "/JO1/static/media/about2.1ad4726f87129d9de00c966ba955c401.svg",
@@ -11,8 +10,11 @@
     "static/media/about.png": "/JO1/static/media/about.c6415b004098621fc385.png",
     "static/media/chulala.png": "/JO1/static/media/chulala.5c8c5cecdf8c22191a59.png",
     "static/media/ruki.svg": "/JO1/static/media/ruki.eca3202cea27a3b3c3a7e0789c10a39d.svg",
-    "static/media/with_us_temp.png": "/JO1/static/media/with_us_temp.f27c23dba08af3d89169.png",
+    "static/media/sho.svg": "/JO1/static/media/sho.dbc5dd0d9ec01c6d049d829027581139.svg",
+    "static/media/syoya.svg": "/JO1/static/media/syoya.de19d117c3bdfff07deb516401db0e5a.svg",
+    "static/media/ren.svg": "/JO1/static/media/ren.c1253f1cd289629d0b158ae9119fb813.svg",
     "static/media/takumi.svg": "/JO1/static/media/takumi.fa85b8e961f36f551056534bd1e97f86.svg",
+    "static/media/sukai.svg": "/JO1/static/media/sukai.43410f6ae0e7826f1160227835c35c03.svg",
     "static/media/junki.svg": "/JO1/static/media/junki.b254bf1e004f611f57b43438793eb3f8.svg",
     "static/media/shosei.svg": "/JO1/static/media/shosei.eeb594a4f6661a48c838b1289f2e724b.svg",
     "static/media/shion.svg": "/JO1/static/media/shion.87bd71ae04cea3f25ea2d83263b25023.svg",
@@ -20,12 +22,12 @@
     "static/media/logo.png": "/JO1/static/media/logo.22559bd461c9d313ae74.png",
     "static/media/splash.svg": "/JO1/static/media/splash.876de221c99a87a1fabb55546a41ab09.svg",
     "index.html": "/JO1/index.html",
-    "main.37984068.css.map": "/JO1/static/css/main.37984068.css.map",
-    "main.9eb15802.js.map": "/JO1/static/js/main.9eb15802.js.map",
+    "main.2f9581b3.css.map": "/JO1/static/css/main.2f9581b3.css.map",
+    "main.bfb8c15c.js.map": "/JO1/static/js/main.bfb8c15c.js.map",
     "787.8c944577.chunk.js.map": "/JO1/static/js/787.8c944577.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.37984068.css",
-    "static/js/main.9eb15802.js"
+    "static/css/main.2f9581b3.css",
+    "static/js/main.bfb8c15c.js"
   ]
 }
