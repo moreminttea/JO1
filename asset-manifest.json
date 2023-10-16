@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/JO1/static/css/main.2f9581b3.css",
-    "main.js": "/JO1/static/js/main.bfb8c15c.js",
+    "main.js": "/JO1/static/js/main.c700cef6.js",
     "static/js/787.8c944577.chunk.js": "/JO1/static/js/787.8c944577.chunk.js",
     "static/media/toberukara.png": "/JO1/static/media/toberukara.cddc0fe5e5cd25170797.png",
     "static/media/about3.svg": "/JO1/static/media/about3.ec497fd5de93605621089301f7fa7a21.svg",
@@ -11,7 +11,9 @@
     "static/media/chulala.png": "/JO1/static/media/chulala.5c8c5cecdf8c22191a59.png",
     "static/media/ruki.svg": "/JO1/static/media/ruki.eca3202cea27a3b3c3a7e0789c10a39d.svg",
     "static/media/sho.svg": "/JO1/static/media/sho.dbc5dd0d9ec01c6d049d829027581139.svg",
-    "static/media/syoya.svg": "/JO1/static/media/syoya.de19d117c3bdfff07deb516401db0e5a.svg",
+    "static/media/mame.svg": "/JO1/static/media/mame.544ac8ee298c1f58a6f433c2c87ad7dd.svg",
+    "static/media/keigo.svg": "/JO1/static/media/keigo.d640591475dc9f33d10baea9e7d632bb.svg",
+    "static/media/syoya.svg": "/JO1/static/media/syoya.9b28682350a5ac4433b31bcc8da6cbae.svg",
     "static/media/ren.svg": "/JO1/static/media/ren.c1253f1cd289629d0b158ae9119fb813.svg",
     "static/media/takumi.svg": "/JO1/static/media/takumi.fa85b8e961f36f551056534bd1e97f86.svg",
     "static/media/sukai.svg": "/JO1/static/media/sukai.43410f6ae0e7826f1160227835c35c03.svg",
@@ -23,11 +25,11 @@
     "static/media/splash.svg": "/JO1/static/media/splash.876de221c99a87a1fabb55546a41ab09.svg",
     "index.html": "/JO1/index.html",
     "main.2f9581b3.css.map": "/JO1/static/css/main.2f9581b3.css.map",
-    "main.bfb8c15c.js.map": "/JO1/static/js/main.bfb8c15c.js.map",
+    "main.c700cef6.js.map": "/JO1/static/js/main.c700cef6.js.map",
     "787.8c944577.chunk.js.map": "/JO1/static/js/787.8c944577.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.2f9581b3.css",
-    "static/js/main.bfb8c15c.js"
+    "static/js/main.c700cef6.js"
   ]
 }
