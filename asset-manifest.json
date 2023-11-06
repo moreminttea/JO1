@@ -1,12 +1,13 @@
 {
   "files": {
     "main.css": "/JO1/static/css/main.f1283352.css",
-    "main.js": "/JO1/static/js/main.04c42ea4.js",
+    "main.js": "/JO1/static/js/main.cdbf7bd7.js",
     "static/js/787.8c944577.chunk.js": "/JO1/static/js/787.8c944577.chunk.js",
     "static/media/toberukara.png": "/JO1/static/media/toberukara.cddc0fe5e5cd25170797.png",
     "static/media/about3.svg": "/JO1/static/media/about3.ec497fd5de93605621089301f7fa7a21.svg",
     "static/media/about2.svg": "/JO1/static/media/about2.1ad4726f87129d9de00c966ba955c401.svg",
     "static/media/gradation.png": "/JO1/static/media/gradation.12047829880b2ee5bfe2.png",
+    "static/media/romance.png": "/JO1/static/media/romance.626334eccbabe74d9e46.png",
     "static/media/about1.svg": "/JO1/static/media/about1.be0b0c874770e483035dcf2af250c94d.svg",
     "static/media/about.png": "/JO1/static/media/about.c6415b004098621fc385.png",
     "static/media/chulala.png": "/JO1/static/media/chulala.5c8c5cecdf8c22191a59.png",
@@ -26,11 +27,11 @@
     "static/media/splash.svg": "/JO1/static/media/splash.876de221c99a87a1fabb55546a41ab09.svg",
     "index.html": "/JO1/index.html",
     "main.f1283352.css.map": "/JO1/static/css/main.f1283352.css.map",
-    "main.04c42ea4.js.map": "/JO1/static/js/main.04c42ea4.js.map",
+    "main.cdbf7bd7.js.map": "/JO1/static/js/main.cdbf7bd7.js.map",
     "787.8c944577.chunk.js.map": "/JO1/static/js/787.8c944577.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.f1283352.css",
-    "static/js/main.04c42ea4.js"
+    "static/js/main.cdbf7bd7.js"
   ]
 }
